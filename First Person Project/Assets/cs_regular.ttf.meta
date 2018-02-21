@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 5ed49458a1b44de4d9b1239c9019fbc5
+timeCreated: 1517948833
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Counter-Strike
+  fontNames:
+  - Counter-Strike
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
